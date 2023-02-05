@@ -1,5 +1,5 @@
 # Description:
-In this project, I designed two simple combinational circuits using Altera software and Verilog. The project was split into two parts: Part I and Part II.
+In this project, I designed two simple combinational circuits using Altera software (Quartus II) and Verilog. The project was split into two parts: Part I and Part II.
 
 Part I: Design of a Priority Encoder
 In this part of the project, I designed a 3-bit priority encoder circuit that converts a 3-bit input into a binary (2-bit) representation. I used a K-map to simplify the input and then developed a Verilog behavior model for the priority encoder. I showed the design steps in detail and simulated the Verilog model using Altera software. The Verilog code for Priority Encoder [Encoder_Verilog_1.v](https://github.com/Nima-MJ/3InputPriorityEncoder/blob/a41d9d323a99db234e02d0724c65b2d3916f2ecd/Encoder_Verilog_1.v)
